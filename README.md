@@ -70,9 +70,18 @@ Working from raw transaction-level data (`Customer_ID`, `Transaction_ID`, `Produ
 
 Online supermarket transaction log (~1M rows) — update this section with the dataset's source/link if it's publicly available, or note that it's private/coursework data.
 
-## Contact
-Feel free to reach out if you have questions or feedback! You can find me on Telegram: @AmirDevil
+---
 
-## License
-This project is licensed under the MIT License. By contributing, you agree that your contributions will be released under the same license.
+## 📬 Contact
 
+Feel free to reach out if you have questions or feedback!  
+Telegram: [@AmirDevil](https://t.me/AmirDevil)
+
+---
+
+## 🛡️ License
+
+This project is licensed under the **MIT License**.  
+By contributing, you agree that your contributions will be released under the same license.
+
+---
