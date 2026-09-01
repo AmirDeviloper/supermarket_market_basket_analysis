@@ -6,6 +6,8 @@ An end-to-end data mining project on a 1M-row online supermarket transaction dat
 
 Working from raw transaction-level data (`Customer_ID`, `Transaction_ID`, `Product`, `Section`, `Day_of_Week`, `Hour`, `Order`, `Last_Purchase`), this project answers five analytical questions about shopping behavior and turns them into concrete, actionable retail recommendations.
 
+---
+
 ## Analysis
 
 **Q1 — Temporal Shopping Patterns**
@@ -41,12 +43,16 @@ Working from raw transaction-level data (`Customer_ID`, `Transaction_ID`, `Produ
   - **Regular** — moderate purchase volume, recently active
   - **Loyal** — highest transaction count, highest volume, most engaged
 
+---
+
 ## Tech Stack
 
 - Python, pandas, NumPy
 - mlxtend (Apriori, association rules, transaction encoding)
 - scikit-learn (K-Means / MiniBatchKMeans, StandardScaler, silhouette score)
 - matplotlib
+
+---
 
 ## Project Structure
 
@@ -57,6 +63,8 @@ Working from raw transaction-level data (`Customer_ID`, `Transaction_ID`, `Produ
 └── Online_SuperMarket.csv   # Dataset (not included — see Dataset section)
 ```
 
+---
+
 ## How to Run
 
 1. Install dependencies:
@@ -65,6 +73,8 @@ Working from raw transaction-level data (`Customer_ID`, `Transaction_ID`, `Produ
    ```
 2. Download `dataset.zip` and unzip it, then update `INPUT_FILE` to point to your local copy of the dataset.
 3. Run the notebook top to bottom.
+
+---
 
 ## Dataset
 
