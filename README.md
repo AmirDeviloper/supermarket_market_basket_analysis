@@ -68,7 +68,7 @@ Working from raw transaction-level data (`Customer_ID`, `Transaction_ID`, `Produ
 
 ## Dataset
 
-Online supermarket transaction log (~1M rows) — update this section with the dataset's source/link if it's publicly available, or note that it's private/coursework data.
+Online supermarket transaction log (~1M rows)
 
 ---
 
