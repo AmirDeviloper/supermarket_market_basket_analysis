@@ -63,7 +63,7 @@ Working from raw transaction-level data (`Customer_ID`, `Transaction_ID`, `Produ
    ```bash
    pip install pandas numpy matplotlib scikit-learn mlxtend
    ```
-2. Update `INPUT_FILE` to point to your local copy of the dataset.
+2. Download `dataset.zip` and unzip it, then update `INPUT_FILE` to point to your local copy of the dataset.
 3. Run the notebook top to bottom.
 
 ## Dataset
